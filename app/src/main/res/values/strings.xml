@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exemplo_sqlite_02</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_sua_idade">Digite sua idade</string>
+    <string name="nome">Nome:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="teste">teste</string>
+    <string name="idade">Idade:</string>
+    <string name="deletar">Deletar</string>
+    <string name="editar">Editar</string>
+    <string name="user_id">"User ID: "</string>
+</resources>
